@@ -1,14 +1,4 @@
-#' ---
-#' title: "Before we start"
-#' author: "Data Carpentry contributors"
-#' minutes: 15
-#' editor_options:
-#'   markdown:
-#'     wrap: 80
-#' ---
-#'
-
-#'
+'
 #' --------------------------------------------------------------------------------
 #'
 #' > ### Learning Objectives
